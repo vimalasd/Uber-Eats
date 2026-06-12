@@ -150,16 +150,6 @@ README.md
 | `README.md` | Setup and usage instructions |
 
 ---
-## Required Packages
-
-The application uses:
-```text
-streamlit  
-pandas  
-numpy
-``` 
-
-All required packages are available in `requirements.txt`.
 
 Install dependencies:
 
