@@ -30,7 +30,6 @@ This project transforms raw restaurant and order data into actionable business i
 * Customer behavior
 * Order segmentation
 * Revenue trends
-* Restaurant performance
 
 ### Business Intelligence (SQL Q&A)
 
